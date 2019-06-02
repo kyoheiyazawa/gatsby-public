@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["__webpack_require__","r","__webpack_exports__"],"mappings":"0FAAAA,EAAAC,EAAAC,GAAeA,EAAA,mBACX,MAAO","file":"component---src-pages-404-js-2cff74cdacf284bd5859.js","sourcesContent":["export default () => {\n    return '404 Not Found';\n};\n"],"sourceRoot":""}
